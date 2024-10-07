@@ -1,0 +1,6 @@
+{
+  "name": "HA Add-ons by gorpet",
+  "udev": true,
+  "url": "https://github.com/gorpet/hassio-addons",
+  "maintainer": "gorpet"
+}
